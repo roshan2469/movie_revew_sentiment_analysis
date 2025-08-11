@@ -26,7 +26,7 @@ matplotlib
 seaborn
 
 
-5. Installation Instructions
+4. Installation Instructions
 Step 1 – Install Python
 Ensure Python 3.8+ is installed. You can check:
 
